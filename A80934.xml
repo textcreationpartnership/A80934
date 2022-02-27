@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord Lieutenant of Ireland, to the Honorable William Lenthall Esq; Speaker of the Parliament of England, relating the good successes God hath lately given to the Parliament forces there. Die Lunæ, 25 Februarii, 1649. Ordered by the Parliament, that this letter be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80934</idno>
+            <idno type="STC">Wing C7102</idno>
+            <idno type="STC">Thomason E594_12</idno>
+            <idno type="STC">ESTC R206919</idno>
+            <idno type="EEBO-CITATION">99866006</idno>
+            <idno type="PROQUEST">99866006</idno>
+            <idno type="VID">165554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165554)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E594[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord Lieutenant of Ireland, to the Honorable William Lenthall Esq; Speaker of the Parliament of England, relating the good successes God hath lately given to the Parliament forces there. Die Lunæ, 25 Februarii, 1649. Ordered by the Parliament, that this letter be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649. [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "ffeb 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165554:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Lord Lieutenant OF IRELAND, TO The Honorable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England,</hi> Relating the good Succeſſes God hath lately given to The Parliament Forces there.</p>
+            <q>
+               <date>
+                  <hi>Die Lunae, 25 Februarii, 1649.</hi>
+               </date>
+               <p>ORdered by the Parliament, That this Letter be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</p>
+               <bibl>
+                  <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parliament of <hi>England.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165554:2"/>
+            <pb n="3" facs="tcp:165554:2"/>
+            <head>For the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>HAving refreſhed our men for ſome ſhort time in our Winter-quarters, and health being pretty well recovered, we thought fit to take the Field, and to attempt ſuch things as God by his Providence ſhould lead us to upon the Enemy: Our Reſolution was, to fall into the Enemies Quarters two ways, the one party being about fifteen or ſixteen Troops of Horſe and Dragoons, and about Two thouſand Foot, were ordered to go up by the way of <hi>Carick</hi> into the County of <hi>Kilkenny,</hi> un<g ref="char:EOLhyphen"/>der the Command of Colonel <hi>Reynolds,</hi> whom Major General <hi>Ireton</hi> was to follow with a Reſerve; I my ſelf was to go by the way of <hi>Mayallo</hi> over the Black-water, towards the County of <hi>Limerick,</hi> and the County of <hi>Tipperary,</hi> with about Twelve Troops of Horſe, and three Troops of Dragoons, and be<g ref="char:EOLhyphen"/>tween Two and three hundred Foot. I began my march upon Tueſday the Nine and twentieth of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> from <hi>Youghall,</hi> and upon Thurſday the One and thirtieth, I poſſeſſed a Caſtle, called <hi>Kilkenny,</hi> upon the edge of the County of <hi>Limerick,</hi> where I left Thirty Foot: From thence I marched to a ſtrong Houſe belonging to Sir <hi>Richard Everard</hi> (called <hi>Clogheen</hi>) who is one of the Supreme Councel, where I left a Troop of Horſe and ſome Dragoons: From thence I marched to <hi>Raghill</hi> Caſtle, which was poſ<g ref="char:EOLhyphen"/>ſeſt by ſome <hi>Ulſter</hi> Foot, and a Party of the Enemies
+<pb n="4" facs="tcp:165554:3"/>
+Horſe, which upon Summons (I having taken the Captain of Horſe Priſoner before) was rendred to me. Theſe places being thus poſſeſſed, give us much com<g ref="char:EOLhyphen"/>mand (together with ſome other Holds we have) of the <hi>White-Knights</hi> and <hi>Roches</hi> Countrey, and of all the Land from <hi>Mayallo</hi> to the Shewer-ſide, eſpecially by another Caſtle taken by my Lord of <hi>Broghill,</hi> called <hi>Old-Caſtle-Town,</hi> ſince my march, which I ſent to his Lordſhip to endeavor; as alſo a Caſtle of Sir <hi>Edward FitZ-Harris,</hi> over the Mountains in the County of <hi>Limerick,</hi> I having left his Lordſhip at <hi>Mayallo,</hi> with about Six or ſeven hundred Horſe, and Four or five hundred Foot, to protect thoſe parts, and your Intereſt in <hi>Munſter,</hi> leſt whileſt we were abroad, <hi>Inchiquin,</hi> whoſe Forces lay about <hi>Limerick</hi> and the County of <hi>Kerry,</hi> ſhould fall in behinde us; his Lord<g ref="char:EOLhyphen"/>ſhip drew two Canon to the foreſaid Caſtle (which having Summoned they refuſed) his Lordſhip having beſtowed about ten ſhot upon it, which made their ſtomacks come down, he gave all the Soldiers Quarter for life, and ſhot all the Officers (be<g ref="char:EOLhyphen"/>ing ſix in number) to death; ſince the taking of theſe Gariſons, the Iriſh have ſent their Commiſſioners to Compound for their Contribution as far as the Walls of <hi>Limerick.</hi> I marched from <hi>Raghil</hi> Caſtle over the Shewer with very much difficulty, and from thence to <hi>Fethard,</hi> almoſt in the heart of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Tipperary,</hi> where was a Gariſon of the Ene<g ref="char:EOLhyphen"/>my; the Town is moſt pleaſantly ſeated, having a very good Wall with round and ſquare Bulwarks, after the old maner of Fortification; We came thither in the Night, and indeed were very much di<g ref="char:EOLhyphen"/>ſtreſſed
+<pb n="5" facs="tcp:165554:3"/>
+by fore and tempeſtuous wind and rain: After a long march, we knew not well how to diſpoſe of our ſelves, but finding an old Abby in the Suburbs, and ſome Cabbins and poor Houſes, we got into them, and had opportunity to ſend them a Summons; they ſhot at my Trumpet, and would not liſten to him for an hours ſpace; but having ſome Officers in our Party which they knew, I ſent them, to let them know that I was there with a good part of the Army; we ſhot not a ſhot at them, but they were very angry, and fired very earneſtly upon us, telling us, That it was not a time of night to ſend a Summons: But yet in the end, the Governor was willing to ſend out two Commiſſio<g ref="char:EOLhyphen"/>ners, I think rather to ſee whether there was a force ſufficient to force him, then to any other end: After almoſt a whole night ſpent in Treaty, the Town was delivered to me the next morning upon Terms, which we uſually call Honorable, which I was the willinger to give, becauſe I had little above Two hundred Foot, and neither Ladders nor Guns, nor any thing elſe to force them that night, there being about ſeventeen Companies of the <hi>Ulſter</hi> Foot in <hi>Cowhel</hi> about five miles from thence, they quit it in ſome diſorder, and the Soveraign and the Aldermen ſince ſent to me a Peti<g ref="char:EOLhyphen"/>tion, deſiring that I would protect them, which I have alſo made a Quarter. From thence I marched towards <hi>Callan,</hi> hearing that Colonel <hi>Reynolds</hi> was there with the Party beforementioned; when I came thither, I found he had fallen upon the Enemies Horſe, and routed them, being about One hundred, with his For<g ref="char:EOLhyphen"/>lorn, took my Lord of <hi>Oſtories</hi> Captain Lieutenant, and another Lieutenant of Horſe, Priſoners, and one of
+<pb n="6" facs="tcp:165554:4"/>
+thoſe who betrayed our Gariſon of <hi>Iniſcorthy,</hi> whom we hanged: The Enemy had poſſeſſed three Caſtles in the Town, one of them belonging to one <hi>Butler,</hi> very conſiderable, the other two had about One hun<g ref="char:EOLhyphen"/>dred, or One hundred and twenty men in them, which he attempted, and they refuſing Conditions ſeaſonably offered, were put all to the Sword; indeed ſome of your Soldiers did attempt very notably in this Service, I do not hear there were ſix men of ours loſt. <hi>Butlers</hi> Caſtle was delivered upon Conditions for all to march away, leaving their Arms behinde them, wherein I have placed a Company of Foot and a Troop of Horſe, un<g ref="char:EOLhyphen"/>der the Command of my Lord <hi>Colvil,</hi> the place being ſix Miles from <hi>Kilkenny;</hi> from hence Colonel <hi>Reynolds</hi> was ſent with his Regiment to remove a Gariſon of the Enemies from <hi>Knocktofer</hi> (being the way of our com<g ref="char:EOLhyphen"/>munication to <hi>Roſs</hi>) which accordingly he did; we marched back with the reſt of the body to <hi>Fethard</hi> and <hi>Caſhel,</hi> where we are now quartered, having good plenty both of horſe meat and mans meat for a time; and being indeed, we may ſay, even almoſt in the heart and bowels of the Enemy, ready to attempt what God ſhall next direct; and bleſſed be his Name onely for this good ſucceſs; and for this, that we do not finde that our men are at all conſiderably ſick upon this Expedition, though indeed it hath been very bluſtring weather. I had almoſt forgot one buſineſs, the Major General was very deſirous to gain a Paſs over the Shewer, where indeed we had none but by Boat, or when the weather ſerved; wherefore on Saturday in the evening he marched with a Party of Horſe and Foot to <hi>Arfi<g ref="char:EOLhyphen"/>nom,</hi> where was a Bridge, and at the foot of it a ſtrong
+<pb n="7" facs="tcp:165554:4"/>
+Caſtle, which he about four a clock the next morn<g ref="char:EOLhyphen"/>ing attempted, killed about thirteen of the Enemies Outguard, loſt but two men, and eight or ten wound<g ref="char:EOLhyphen"/>ed, the Enemy yielded the place to him, and were poſſeſſed of it, being a very conſiderable Paſs, and the neareſt to our Paſs at <hi>Cappoquin</hi> over the black water, whither we can bring Guns, Ammunition, or other things from <hi>Youghal</hi> by water, and over this Paſs to the Army: The County of <hi>Tipperary</hi> have ſub<g ref="char:EOLhyphen"/>mitted to One thouſand five hundred pounds a moneth Contribution, although they have ſix or ſeven of the Enemies Gariſons yet upon them. Sir, I deſire the charge of <hi>England,</hi> as to this War, may be abated as much as may be, and as we know you do deſire out of your care to the Commonwealth; but if you ex<g ref="char:EOLhyphen"/>pect your work to be done (if the marching Army be not conſtantly paid, and the courſe taken that hath been humbly repreſented) indeed it will not be for the thrift of <hi>England,</hi> as far as <hi>England</hi> is concerned in the ſpeedy reduction of <hi>Ireland:</hi> The money we raiſe upon the Counties, maintains the Gariſon Forces, and hardly that; if the active force be not maintained, and all contingencies defrayed, how can you expect but to have a lingering buſineſs of it? ſurely we deſire not to ſpend a ſhilling of your Treaſury, wherein our Conſciences do not prompt us: We ſerve you, we are willing to be out of our trade of War, and ſhall haſten (by Gods aſſiſtance and Grace) to the end of our work, as the Laborer doth, to be at his reſt; this makes us bold to be earneſt with you for neceſſary ſup<g ref="char:EOLhyphen"/>plies, that of money is one, and there be ſome other things which indeed I do not think for your ſervice to
+<pb n="8" facs="tcp:165554:5"/>
+ſpeak of publiquely, which I ſhall humbly repreſent to the Councel of State, wherewith I deſire we may be accommodated. Sir, The Lord who doth all theſe things, gives hopes of a ſpeedy iſſue to this buſineſs, and I am perſwaded will graciouſly appear in it; and truly there is no fear of the ſtrength and Combina<g ref="char:EOLhyphen"/>tion of Enemies round about, nor of ſlanderous tongues at home, God hath hitherto fenced you againſt all thoſe, to wonder and amazement, they are tokens of your proſperity and ſucceſs; onely it will be good for you, and us that ſerve you, to fear the Lord, to fear Unbelief, Self-ſeeking, Confidence in an Arm of Fleſh, and opinion of any Inſtruments that they are, other then as dry bones: That God be merciful in theſe things, and bleſs you, is the humble prayer of, Sir,</p>
+            <closer>
+               <signed>Your moſt humble Servant, <hi>O. CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <hi>Caſtletown,</hi>
+                  <date>15 <hi>Febr.</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
